@@ -1,0 +1,24 @@
+{
+  "name": "2048-tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^22.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerryXun0311/2048-tea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JerryXun0311/2048-tea/issues"
+  },
+  "homepage": "https://github.com/JerryXun0311/2048-tea/blob/main/README.md"
+}
